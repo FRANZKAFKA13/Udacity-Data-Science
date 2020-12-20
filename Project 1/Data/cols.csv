@@ -1,0 +1,68 @@
+,0
+0,accommodates
+1,beds
+2,bedrooms
+3,bathrooms
+4,guests_included
+5,extra_people
+6,security_deposit_required
+7,minimum_nights
+8,maximum_nights
+9,availability_365
+10,instant_bookable
+11,weekly_booking_available
+12,monthly_booking_available
+13,number_of_reviews
+14,review_scores_rating
+15,review_scores_accuracy
+16,review_scores_communication
+17,review_scores_location
+18,review_scores_checkin
+19,review_scores_value
+20,host_about_available
+21,host_since_in_days
+22,host_is_superhost
+23,host_total_listings_count
+24,host_identity_verified
+25,xl_picture_available
+26,notes_available
+27,require_guest_profile_picture
+28,require_guest_phone_verification
+29,neighbourhood_group_cleansed_Beacon Hill
+30,neighbourhood_group_cleansed_Capitol Hill
+31,neighbourhood_group_cleansed_Cascade
+32,neighbourhood_group_cleansed_Central Area
+33,neighbourhood_group_cleansed_Delridge
+34,neighbourhood_group_cleansed_Downtown
+35,neighbourhood_group_cleansed_Interbay
+36,neighbourhood_group_cleansed_Lake City
+37,neighbourhood_group_cleansed_Magnolia
+38,neighbourhood_group_cleansed_Northgate
+39,neighbourhood_group_cleansed_Other neighborhoods
+40,neighbourhood_group_cleansed_Queen Anne
+41,neighbourhood_group_cleansed_Rainier Valley
+42,neighbourhood_group_cleansed_Seward Park
+43,neighbourhood_group_cleansed_University District
+44,neighbourhood_group_cleansed_West Seattle
+45,room_type_Private room
+46,room_type_Shared room
+47,property_type_Bed & Breakfast
+48,property_type_Boat
+49,property_type_Bungalow
+50,property_type_Cabin
+51,property_type_Camper/RV
+52,property_type_Chalet
+53,property_type_Condominium
+54,property_type_Dorm
+55,property_type_House
+56,property_type_Loft
+57,property_type_Other
+58,property_type_Tent
+59,property_type_Townhouse
+60,property_type_Treehouse
+61,bed_type_Couch
+62,bed_type_Futon
+63,bed_type_Pull-out Sofa
+64,bed_type_Real Bed
+65,cancellation_policy_moderate
+66,cancellation_policy_strict

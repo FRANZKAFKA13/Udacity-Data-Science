@@ -1,0 +1,68 @@
+ColNumber;ColName;Loft;Shared_1;Shared_2
+0;accommodates;1;1;1
+1;beds;1;1;1
+2;bedrooms;1;1;1
+3;bathrooms;1;1;1
+4;guests_included;2;2;2
+5;extra_people;3;3;3
+6;security_deposit_required;1;1;1
+7;minimum_nights;1;1;1
+8;maximum_nights;30;30;30
+9;availability_365;365;365;365
+10;instant_bookable;1;1;1
+11;weekly_booking_available;1;1;1
+12;monthly_booking_available;1;1;1
+13;number_of_reviews;0;0;0
+14;review_scores_rating;;;
+15;review_scores_accuracy;;;
+16;review_scores_communication;;;
+17;review_scores_location;;;
+18;review_scores_checkin;;;
+19;review_scores_value;;;
+20;host_about_available;1;1;1
+21;host_since_in_days;0;0;0
+22;host_is_superhost;0;0;0
+23;host_total_listings_count;1;1;1
+24;host_identity_verified;1;1;1
+25;xl_picture_available;0;0;0
+26;notes_available;0;0;0
+27;require_guest_profile_picture;0;0;0
+28;require_guest_phone_verification;1;1;1
+29;neighbourhood_group_cleansed_Beacon Hill;0;0;0
+30;neighbourhood_group_cleansed_Capitol Hill;0;0;0
+31;neighbourhood_group_cleansed_Cascade;0;0;0
+32;neighbourhood_group_cleansed_Central Area;0;0;0
+33;neighbourhood_group_cleansed_Delridge;0;0;0
+34;neighbourhood_group_cleansed_Downtown;1;1;1
+35;neighbourhood_group_cleansed_Interbay;0;0;0
+36;neighbourhood_group_cleansed_Lake City;0;0;0
+37;neighbourhood_group_cleansed_Magnolia;0;0;0
+38;neighbourhood_group_cleansed_Northgate;0;0;0
+39;neighbourhood_group_cleansed_Other neighborhoods;0;0;0
+40;neighbourhood_group_cleansed_Queen Anne;0;0;0
+41;neighbourhood_group_cleansed_Rainier Valley;0;0;0
+42;neighbourhood_group_cleansed_Seward Park;0;0;0
+43;neighbourhood_group_cleansed_University District;0;0;0
+44;neighbourhood_group_cleansed_West Seattle;0;0;0
+45;room_type_Private room;0;1;1
+46;room_type_Shared room;0;0;0
+47;property_type_Bed & Breakfast;0;0;0
+48;property_type_Boat;0;0;0
+49;property_type_Bungalow;0;0;0
+50;property_type_Cabin;0;0;0
+51;property_type_Camper/RV;0;0;0
+52;property_type_Chalet;0;0;0
+53;property_type_Condominium;0;0;0
+54;property_type_Dorm;0;0;0
+55;property_type_House;0;0;0
+56;property_type_Loft;1;0;0
+57;property_type_Other;0;0;0
+58;property_type_Tent;0;0;0
+59;property_type_Townhouse;0;0;0
+60;property_type_Treehouse;0;0;0
+61;bed_type_Couch;0;0;0
+62;bed_type_Futon;0;0;0
+63;bed_type_Pull-out Sofa;0;0;1
+64;bed_type_Real Bed;1;1;0
+65;cancellation_policy_moderate;1;1;1
+66;cancellation_policy_strict;0;0;0
