@@ -19,6 +19,7 @@ Once the location is set, there might be other things we can optimize to maximiz
 **Question 3**<br>
 A friend has an apartment in Seattle downtown that he wants to rent out via Airbnb. It has one big bedroom, a kitchen and one bathroom. Should he invest money to split the bedroom into two rooms?
 
+I published the answers within a short [blog post on Medium](https://carstengranig.medium.com/maximizing-airbnb-income-in-seattle-4431cbc99085).
 
 
 ## Deployment
