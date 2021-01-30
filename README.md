@@ -1,4 +1,4 @@
-# Udacity Data Science Project 1
+# Udacity Data Science Project 1 (Airbnb Linear Model)
 
 This repository contains the code I wrote for tackling project 1 in the Data Scientist Nanodegree by Udacity.
 
